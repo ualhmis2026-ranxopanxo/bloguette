@@ -1,0 +1,4 @@
+baseURL = 'https://github.com/ualhmis2026-ranxopanxo/bloguette.git'
+languageCode = 'es-es'
+title = 'RanxoPanxo Bloggin experiencé'
+theme = 'hugo-theme-monochrome'
