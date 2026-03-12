@@ -27,12 +27,12 @@ jobs:
           hugo-version: 'latest'
 
       - name: Build
-        run: hugo --minify
+        run: hugo --minify -s Ranxopanxo
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: ./public
+          path: ./Ranxopanxo/public
 
   deploy:
     environment:
