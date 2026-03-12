@@ -1,4 +1,4 @@
-baseURL = 'https://github.com/ualhmis2026-ranxopanxo/bloguette.git'
+baseURL = 'https://ualhmis2026-ranxopanxo.github.io/bloguette/'
 languageCode = 'es-es'
 title = 'RanxoPanxo Bloggin experiencé'
 theme = 'hugo-theme-monochrome'
