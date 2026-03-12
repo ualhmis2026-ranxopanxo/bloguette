@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>RanxoPanxo Bloggin experiencé</title>
+    <link>https://ualhmis2026-ranxopanxo.github.io/bloguette/</link>
+    <description>Recent content on RanxoPanxo Bloggin experiencé</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Thu, 12 Mar 2026 14:18:25 +0100</lastBuildDate><atom:link href="https://ualhmis2026-ranxopanxo.github.io/bloguette/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Perfil Sre Tzj</title>
+      <link>https://ualhmis2026-ranxopanxo.github.io/bloguette/posts/perfil-sre-tzj/</link>
+      <pubDate>Thu, 12 Mar 2026 14:18:25 +0100</pubDate>
+      
+      <guid>https://ualhmis2026-ranxopanxo.github.io/bloguette/posts/perfil-sre-tzj/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mi Primer Post</title>
+      <link>https://ualhmis2026-ranxopanxo.github.io/bloguette/posts/mi-primer-post/</link>
+      <pubDate>Thu, 12 Mar 2026 13:59:59 +0100</pubDate>
+      
+      <guid>https://ualhmis2026-ranxopanxo.github.io/bloguette/posts/mi-primer-post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Miembro 1</title>
+      <link>https://ualhmis2026-ranxopanxo.github.io/bloguette/equipo/miembro1/</link>
+      <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://ualhmis2026-ranxopanxo.github.io/bloguette/equipo/miembro1/</guid>
+      <description>&lt;!-- end-chunk --&gt;
+&lt;!-- begin-chunk data-anchor=&#34;sobre-mí&#34; --&gt;
+
+&lt;h2 class=&#34;header-anchor-wrapper&#34;&gt;Sobre mí
+  &lt;a href=&#34;#sobre-m%c3%ad&#34; class=&#34;header-anchor-link&#34;&gt;
+&lt;svg
+    xmlns=&#34;http://www.w3.org/2000/svg&#34;
+    width=&#34;1rem&#34; height=&#34;1rem&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34;
+    stroke=&#34;currentColor&#34; stroke-width=&#34;2&#34; stroke-linecap=&#34;round&#34;
+    stroke-linejoin=&#34;round&#34;&gt;
+    &lt;line x1=&#34;4&#34; y1=&#34;9&#34; x2=&#34;20&#34; y2=&#34;9&#34;&gt;&lt;/line&gt;&lt;line x1=&#34;4&#34; y1=&#34;15&#34; x2=&#34;20&#34; y2=&#34;15&#34;&gt;&lt;/line&gt;&lt;line x1=&#34;10&#34; y1=&#34;3&#34; x2=&#34;8&#34; y2=&#34;21&#34;&gt;&lt;/line&gt;&lt;line x1=&#34;16&#34; y1=&#34;3&#34; x2=&#34;14&#34; y2=&#34;21&#34;&gt;&lt;/line&gt;
+&lt;/svg&gt;
+
+&lt;/a&gt;
+&lt;/h2&gt;
+
+&lt;p&gt;¡Hola! Soy &lt;strong&gt;Miembro 1&lt;/strong&gt; del equipo RanxoPanxo.&lt;/p&gt;
+&lt;!-- end-chunk --&gt;
+&lt;!-- begin-chunk data-anchor=&#34;aficiones&#34; --&gt;
+
+&lt;h2 class=&#34;header-anchor-wrapper&#34;&gt;Aficiones
+  &lt;a href=&#34;#aficiones&#34; class=&#34;header-anchor-link&#34;&gt;
+&lt;svg
+    xmlns=&#34;http://www.w3.org/2000/svg&#34;
+    width=&#34;1rem&#34; height=&#34;1rem&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34;
+    stroke=&#34;currentColor&#34; stroke-width=&#34;2&#34; stroke-linecap=&#34;round&#34;
+    stroke-linejoin=&#34;round&#34;&gt;
+    &lt;line x1=&#34;4&#34; y1=&#34;9&#34; x2=&#34;20&#34; y2=&#34;9&#34;&gt;&lt;/line&gt;&lt;line x1=&#34;4&#34; y1=&#34;15&#34; x2=&#34;20&#34; y2=&#34;15&#34;&gt;&lt;/line&gt;&lt;line x1=&#34;10&#34; y1=&#34;3&#34; x2=&#34;8&#34; y2=&#34;21&#34;&gt;&lt;/line&gt;&lt;line x1=&#34;16&#34; y1=&#34;3&#34; x2=&#34;14&#34; y2=&#34;21&#34;&gt;&lt;/line&gt;
+&lt;/svg&gt;
+
+&lt;/a&gt;
+&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Programación&lt;/li&gt;
+&lt;li&gt;Videojuegos&lt;/li&gt;
+&lt;li&gt;Lectura&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- end-chunk --&gt;
+&lt;!-- begin-chunk data-anchor=&#34;tecnologías-favoritas&#34; --&gt;
+
+&lt;h2 class=&#34;header-anchor-wrapper&#34;&gt;Tecnologías favoritas
+  &lt;a href=&#34;#tecnolog%c3%adas-favoritas&#34; class=&#34;header-anchor-link&#34;&gt;
+&lt;svg
+    xmlns=&#34;http://www.w3.org/2000/svg&#34;
+    width=&#34;1rem&#34; height=&#34;1rem&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34;
+    stroke=&#34;currentColor&#34; stroke-width=&#34;2&#34; stroke-linecap=&#34;round&#34;
+    stroke-linejoin=&#34;round&#34;&gt;
+    &lt;line x1=&#34;4&#34; y1=&#34;9&#34; x2=&#34;20&#34; y2=&#34;9&#34;&gt;&lt;/line&gt;&lt;line x1=&#34;4&#34; y1=&#34;15&#34; x2=&#34;20&#34; y2=&#34;15&#34;&gt;&lt;/line&gt;&lt;line x1=&#34;10&#34; y1=&#34;3&#34; x2=&#34;8&#34; y2=&#34;21&#34;&gt;&lt;/line&gt;&lt;line x1=&#34;16&#34; y1=&#34;3&#34; x2=&#34;14&#34; y2=&#34;21&#34;&gt;&lt;/line&gt;
+&lt;/svg&gt;
+
+&lt;/a&gt;
+&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Python&lt;/li&gt;
+&lt;li&gt;JavaScript&lt;/li&gt;
+&lt;li&gt;Hugo&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>Miembro 2</title>
+      <link>https://ualhmis2026-ranxopanxo.github.io/bloguette/equipo/miembro2/</link>
+      <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://ualhmis2026-ranxopanxo.github.io/bloguette/equipo/miembro2/</guid>
+      <description>&lt;!-- end-chunk --&gt;
+&lt;!-- begin-chunk data-anchor=&#34;sobre-mí&#34; --&gt;
+
+&lt;h2 class=&#34;header-anchor-wrapper&#34;&gt;Sobre mí
+  &lt;a href=&#34;#sobre-m%c3%ad&#34; class=&#34;header-anchor-link&#34;&gt;
+&lt;svg
+    xmlns=&#34;http://www.w3.org/2000/svg&#34;
+    width=&#34;1rem&#34; height=&#34;1rem&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34;
+    stroke=&#34;currentColor&#34; stroke-width=&#34;2&#34; stroke-linecap=&#34;round&#34;
+    stroke-linejoin=&#34;round&#34;&gt;
+    &lt;line x1=&#34;4&#34; y1=&#34;9&#34; x2=&#34;20&#34; y2=&#34;9&#34;&gt;&lt;/line&gt;&lt;line x1=&#34;4&#34; y1=&#34;15&#34; x2=&#34;20&#34; y2=&#34;15&#34;&gt;&lt;/line&gt;&lt;line x1=&#34;10&#34; y1=&#34;3&#34; x2=&#34;8&#34; y2=&#34;21&#34;&gt;&lt;/line&gt;&lt;line x1=&#34;16&#34; y1=&#34;3&#34; x2=&#34;14&#34; y2=&#34;21&#34;&gt;&lt;/line&gt;
+&lt;/svg&gt;
+
+&lt;/a&gt;
+&lt;/h2&gt;
+
+&lt;p&gt;¡Hola! Soy &lt;strong&gt;Miembro 2&lt;/strong&gt; del equipo RanxoPanxo.&lt;/p&gt;
+&lt;!-- end-chunk --&gt;
+&lt;!-- begin-chunk data-anchor=&#34;aficiones&#34; --&gt;
+
+&lt;h2 class=&#34;header-anchor-wrapper&#34;&gt;Aficiones
+  &lt;a href=&#34;#aficiones&#34; class=&#34;header-anchor-link&#34;&gt;
+&lt;svg
+    xmlns=&#34;http://www.w3.org/2000/svg&#34;
+    width=&#34;1rem&#34; height=&#34;1rem&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34;
+    stroke=&#34;currentColor&#34; stroke-width=&#34;2&#34; stroke-linecap=&#34;round&#34;
+    stroke-linejoin=&#34;round&#34;&gt;
+    &lt;line x1=&#34;4&#34; y1=&#34;9&#34; x2=&#34;20&#34; y2=&#34;9&#34;&gt;&lt;/line&gt;&lt;line x1=&#34;4&#34; y1=&#34;15&#34; x2=&#34;20&#34; y2=&#34;15&#34;&gt;&lt;/line&gt;&lt;line x1=&#34;10&#34; y1=&#34;3&#34; x2=&#34;8&#34; y2=&#34;21&#34;&gt;&lt;/line&gt;&lt;line x1=&#34;16&#34; y1=&#34;3&#34; x2=&#34;14&#34; y2=&#34;21&#34;&gt;&lt;/line&gt;
+&lt;/svg&gt;
+
+&lt;/a&gt;
+&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Diseño gráfico&lt;/li&gt;
+&lt;li&gt;Música&lt;/li&gt;
+&lt;li&gt;Senderismo&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- end-chunk --&gt;
+&lt;!-- begin-chunk data-anchor=&#34;tecnologías-favoritas&#34; --&gt;
+
+&lt;h2 class=&#34;header-anchor-wrapper&#34;&gt;Tecnologías favoritas
+  &lt;a href=&#34;#tecnolog%c3%adas-favoritas&#34; class=&#34;header-anchor-link&#34;&gt;
+&lt;svg
+    xmlns=&#34;http://www.w3.org/2000/svg&#34;
+    width=&#34;1rem&#34; height=&#34;1rem&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34;
+    stroke=&#34;currentColor&#34; stroke-width=&#34;2&#34; stroke-linecap=&#34;round&#34;
+    stroke-linejoin=&#34;round&#34;&gt;
+    &lt;line x1=&#34;4&#34; y1=&#34;9&#34; x2=&#34;20&#34; y2=&#34;9&#34;&gt;&lt;/line&gt;&lt;line x1=&#34;4&#34; y1=&#34;15&#34; x2=&#34;20&#34; y2=&#34;15&#34;&gt;&lt;/line&gt;&lt;line x1=&#34;10&#34; y1=&#34;3&#34; x2=&#34;8&#34; y2=&#34;21&#34;&gt;&lt;/line&gt;&lt;line x1=&#34;16&#34; y1=&#34;3&#34; x2=&#34;14&#34; y2=&#34;21&#34;&gt;&lt;/line&gt;
+&lt;/svg&gt;
+
+&lt;/a&gt;
+&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;HTML/CSS&lt;/li&gt;
+&lt;li&gt;React&lt;/li&gt;
+&lt;li&gt;Figma&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>Miembro 3</title>
+      <link>https://ualhmis2026-ranxopanxo.github.io/bloguette/equipo/miembro3/</link>
+      <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://ualhmis2026-ranxopanxo.github.io/bloguette/equipo/miembro3/</guid>
+      <description>&lt;!-- end-chunk --&gt;
+&lt;!-- begin-chunk data-anchor=&#34;sobre-mí&#34; --&gt;
+
+&lt;h2 class=&#34;header-anchor-wrapper&#34;&gt;Sobre mí
+  &lt;a href=&#34;#sobre-m%c3%ad&#34; class=&#34;header-anchor-link&#34;&gt;
+&lt;svg
+    xmlns=&#34;http://www.w3.org/2000/svg&#34;
+    width=&#34;1rem&#34; height=&#34;1rem&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34;
+    stroke=&#34;currentColor&#34; stroke-width=&#34;2&#34; stroke-linecap=&#34;round&#34;
+    stroke-linejoin=&#34;round&#34;&gt;
+    &lt;line x1=&#34;4&#34; y1=&#34;9&#34; x2=&#34;20&#34; y2=&#34;9&#34;&gt;&lt;/line&gt;&lt;line x1=&#34;4&#34; y1=&#34;15&#34; x2=&#34;20&#34; y2=&#34;15&#34;&gt;&lt;/line&gt;&lt;line x1=&#34;10&#34; y1=&#34;3&#34; x2=&#34;8&#34; y2=&#34;21&#34;&gt;&lt;/line&gt;&lt;line x1=&#34;16&#34; y1=&#34;3&#34; x2=&#34;14&#34; y2=&#34;21&#34;&gt;&lt;/line&gt;
+&lt;/svg&gt;
+
+&lt;/a&gt;
+&lt;/h2&gt;
+
+&lt;p&gt;¡Hola! Soy &lt;strong&gt;Miembro 3&lt;/strong&gt; del equipo RanxoPanxo.&lt;/p&gt;
+&lt;!-- end-chunk --&gt;
+&lt;!-- begin-chunk data-anchor=&#34;aficiones&#34; --&gt;
+
+&lt;h2 class=&#34;header-anchor-wrapper&#34;&gt;Aficiones
+  &lt;a href=&#34;#aficiones&#34; class=&#34;header-anchor-link&#34;&gt;
+&lt;svg
+    xmlns=&#34;http://www.w3.org/2000/svg&#34;
+    width=&#34;1rem&#34; height=&#34;1rem&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34;
+    stroke=&#34;currentColor&#34; stroke-width=&#34;2&#34; stroke-linecap=&#34;round&#34;
+    stroke-linejoin=&#34;round&#34;&gt;
+    &lt;line x1=&#34;4&#34; y1=&#34;9&#34; x2=&#34;20&#34; y2=&#34;9&#34;&gt;&lt;/line&gt;&lt;line x1=&#34;4&#34; y1=&#34;15&#34; x2=&#34;20&#34; y2=&#34;15&#34;&gt;&lt;/line&gt;&lt;line x1=&#34;10&#34; y1=&#34;3&#34; x2=&#34;8&#34; y2=&#34;21&#34;&gt;&lt;/line&gt;&lt;line x1=&#34;16&#34; y1=&#34;3&#34; x2=&#34;14&#34; y2=&#34;21&#34;&gt;&lt;/line&gt;
+&lt;/svg&gt;
+
+&lt;/a&gt;
+&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Cine&lt;/li&gt;
+&lt;li&gt;Cocina&lt;/li&gt;
+&lt;li&gt;Deportes&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- end-chunk --&gt;
+&lt;!-- begin-chunk data-anchor=&#34;tecnologías-favoritas&#34; --&gt;
+
+&lt;h2 class=&#34;header-anchor-wrapper&#34;&gt;Tecnologías favoritas
+  &lt;a href=&#34;#tecnolog%c3%adas-favoritas&#34; class=&#34;header-anchor-link&#34;&gt;
+&lt;svg
+    xmlns=&#34;http://www.w3.org/2000/svg&#34;
+    width=&#34;1rem&#34; height=&#34;1rem&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34;
+    stroke=&#34;currentColor&#34; stroke-width=&#34;2&#34; stroke-linecap=&#34;round&#34;
+    stroke-linejoin=&#34;round&#34;&gt;
+    &lt;line x1=&#34;4&#34; y1=&#34;9&#34; x2=&#34;20&#34; y2=&#34;9&#34;&gt;&lt;/line&gt;&lt;line x1=&#34;4&#34; y1=&#34;15&#34; x2=&#34;20&#34; y2=&#34;15&#34;&gt;&lt;/line&gt;&lt;line x1=&#34;10&#34; y1=&#34;3&#34; x2=&#34;8&#34; y2=&#34;21&#34;&gt;&lt;/line&gt;&lt;line x1=&#34;16&#34; y1=&#34;3&#34; x2=&#34;14&#34; y2=&#34;21&#34;&gt;&lt;/line&gt;
+&lt;/svg&gt;
+
+&lt;/a&gt;
+&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Java&lt;/li&gt;
+&lt;li&gt;Docker&lt;/li&gt;
+&lt;li&gt;Linux&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>Contacto</title>
+      <link>https://ualhmis2026-ranxopanxo.github.io/bloguette/contacto/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ualhmis2026-ranxopanxo.github.io/bloguette/contacto/</guid>
+      <description>&lt;p&gt;¿Quieres ponerte en contacto con nosotros? Rellena el formulario y te responderemos lo antes posible.&lt;/p&gt;
+&lt;form action=&#34;https://formspree.io/f/TU_FORM_ID&#34; method=&#34;POST&#34; style=&#34;max-width: 600px; margin: 2rem auto;&#34;&gt;
+  &lt;div style=&#34;margin-bottom: 1rem;&#34;&gt;
+    &lt;label for=&#34;name&#34; style=&#34;display: block; margin-bottom: 0.3rem; font-weight: bold;&#34;&gt;Nombre&lt;/label&gt;
+    &lt;input type=&#34;text&#34; id=&#34;name&#34; name=&#34;name&#34; required
+      style=&#34;width: 100%; padding: 0.5rem; border: 1px solid #ccc; border-radius: 4px;&#34;&gt;
+  &lt;/div&gt;
+  &lt;div style=&#34;margin-bottom: 1rem;&#34;&gt;
+    &lt;label for=&#34;email&#34; style=&#34;display: block; margin-bottom: 0.3rem; font-weight: bold;&#34;&gt;Correo electrónico&lt;/label&gt;
+    &lt;input type=&#34;email&#34; id=&#34;email&#34; name=&#34;email&#34; required
+      style=&#34;width: 100%; padding: 0.5rem; border: 1px solid #ccc; border-radius: 4px;&#34;&gt;
+  &lt;/div&gt;
+  &lt;div style=&#34;margin-bottom: 1rem;&#34;&gt;
+    &lt;label for=&#34;subject&#34; style=&#34;display: block; margin-bottom: 0.3rem; font-weight: bold;&#34;&gt;Asunto&lt;/label&gt;
+    &lt;input type=&#34;text&#34; id=&#34;subject&#34; name=&#34;_subject&#34; required
+      style=&#34;width: 100%; padding: 0.5rem; border: 1px solid #ccc; border-radius: 4px;&#34;&gt;
+  &lt;/div&gt;
+  &lt;div style=&#34;margin-bottom: 1rem;&#34;&gt;
+    &lt;label for=&#34;message&#34; style=&#34;display: block; margin-bottom: 0.3rem; font-weight: bold;&#34;&gt;Mensaje&lt;/label&gt;
+    &lt;textarea id=&#34;message&#34; name=&#34;message&#34; rows=&#34;6&#34; required
+      style=&#34;width: 100%; padding: 0.5rem; border: 1px solid #ccc; border-radius: 4px;&#34;&gt;&lt;/textarea&gt;
+  &lt;/div&gt;
+&lt;p&gt;&lt;button type=&#34;submit&#34;
+style=&#34;padding: 0.7rem 2rem; background: #333; color: #fff; border: none; border-radius: 4px; cursor: pointer; font-size: 1rem;&#34;&gt;
+Enviar mensaje
+&lt;/button&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

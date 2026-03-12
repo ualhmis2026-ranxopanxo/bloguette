@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on RanxoPanxo Bloggin experiencé</title>
+    <link>https://ualhmis2026-ranxopanxo.github.io/bloguette/posts/</link>
+    <description>Recent content in Posts on RanxoPanxo Bloggin experiencé</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Thu, 12 Mar 2026 14:18:25 +0100</lastBuildDate><atom:link href="https://ualhmis2026-ranxopanxo.github.io/bloguette/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Perfil Sre Tzj</title>
+      <link>https://ualhmis2026-ranxopanxo.github.io/bloguette/posts/perfil-sre-tzj/</link>
+      <pubDate>Thu, 12 Mar 2026 14:18:25 +0100</pubDate>
+      
+      <guid>https://ualhmis2026-ranxopanxo.github.io/bloguette/posts/perfil-sre-tzj/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mi Primer Post</title>
+      <link>https://ualhmis2026-ranxopanxo.github.io/bloguette/posts/mi-primer-post/</link>
+      <pubDate>Thu, 12 Mar 2026 13:59:59 +0100</pubDate>
+      
+      <guid>https://ualhmis2026-ranxopanxo.github.io/bloguette/posts/mi-primer-post/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
