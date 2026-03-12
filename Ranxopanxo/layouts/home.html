@@ -1,0 +1,15 @@
+{{ define "content" }}
+
+{{ if .Content }}
+    <div class="content-margin">
+        {{- partial "content.html" (dict "ctx" . "content" .Content) -}}
+    </div>
+{{ end }}
+
+<div class="content-margin">
+    <h2>Últimas entradas</h2>
+</div>
+
+{{ partial "postcard/layout.html" (dict "pages" (where .Site.RegularPages "Section" "posts") "ctx" .) }}
+
+{{ end }}

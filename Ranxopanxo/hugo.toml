@@ -2,3 +2,41 @@ baseURL = 'https://ualhmis2026-ranxopanxo.github.io/bloguette/'
 languageCode = 'es-es'
 title = 'RanxoPanxo Bloggin experiencé'
 theme = 'hugo-theme-monochrome'
+contentDir = "content"
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+[params]
+  description = "Blog del equipo RanxoPanxo — Compartimos nuestras experiencias, proyectos y aficiones."
+  footer = "© 2026 RanxoPanxo. Todos los derechos reservados."
+  enable_site_search = true
+
+[params.list_layout]
+  enable_group_by_year = true
+  enable_show_date = true
+
+# --- Menú de navegación ---
+[[menus.navbar]]
+  identifier = "inicio"
+  name = "Inicio"
+  url = "/"
+  weight = 1
+
+[[menus.navbar]]
+  identifier = "posts"
+  name = "Blog"
+  url = "/posts/"
+  weight = 2
+
+[[menus.navbar]]
+  identifier = "equipo"
+  name = "Equipo"
+  url = "/equipo/"
+  weight = 3
+
+[[menus.navbar]]
+  identifier = "contacto"
+  name = "Contacto"
+  url = "/contacto/"
+  weight = 4
