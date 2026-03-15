@@ -1,23 +1,25 @@
 +++
-title = "Miembro 2"
-nick = "miembro2"
-github = "miembro2"
-avatar = ""
+title = "Teo Zaitegui"
+nick = "tzj077"
+github = "zzzaitegui"
 date = 2026-03-12
 +++
 
 ## Sobre mí
 
-¡Hola! Soy **Miembro 2** del equipo RanxoPanxo.
+¡Hola! Soy **Teo Zaitegui**, estudiante de Ingeniería Informática en la Universidad de Almería. Me apasiona el desarrollo de software y siempre estoy buscando nuevos proyectos en los que aprender y crecer como programador.
+
+🔗 [GitHub: zzzaitegui](https://github.com/zzzaitegui)
 
 ## Aficiones
 
+- Programación
+- Videojuegos
 - Diseño gráfico
-- Música
-- Senderismo
 
 ## Tecnologías favoritas
 
-- HTML/CSS
-- React
+- Java
+- Git / GitHub
 - Figma
+- Hugo
