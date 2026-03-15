@@ -7,7 +7,3 @@ Somos **RanxoPanxo**, un equipo apasionado por la tecnología, el desarrollo de 
 ## Conoce al equipo
 
 Descubre quiénes somos en nuestra [página del equipo](/equipo/).
-
-## Contacto
-
-¿Tienes algo que decirnos? Visita nuestro [formulario de contacto](/contacto/).
