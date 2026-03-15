@@ -1,23 +1,25 @@
 +++
-title = "Miembro 1"
-nick = "miembro1"
-github = "miembro1"
-avatar = ""
+title = "Sergio Alejandro"
+nick = "sre803"
+github = "sre803"
 date = 2026-03-12
 +++
 
 ## Sobre mí
 
-¡Hola! Soy **Miembro 1** del equipo RanxoPanxo.
+¡Hola! Soy **Sergio Alejandro**, integrante del equipo RanxoPanxo. Me gusta el desarrollo de software y seguir aprendiendo nuevas herramientas para mejorar en cada proyecto.
+
+🔗 [GitHub: Sre803](https://github.com/Sre803)
 
 ## Aficiones
 
 - Programación
 - Videojuegos
-- Lectura
+- Diseño gráfico
 
 ## Tecnologías favoritas
 
-- Python
-- JavaScript
+- Java
+- Git / GitHub
+- Figma
 - Hugo
