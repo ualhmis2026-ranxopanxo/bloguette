@@ -4,7 +4,7 @@ title = 'Contacto'
 
 ¿Quieres ponerte en contacto con nosotros? Rellena el formulario y te responderemos lo antes posible.
 
-<form action="https://formspree.io/f/TU_FORM_ID" method="POST" style="max-width: 600px; margin: 2rem auto;">
+<form action="https://formspree.io/f/mreyaovo" method="POST" style="max-width: 600px; margin: 2rem auto;">
 
   <div style="margin-bottom: 1rem;">
     <label for="name" style="display: block; margin-bottom: 0.3rem; font-weight: bold;">Nombre</label>
